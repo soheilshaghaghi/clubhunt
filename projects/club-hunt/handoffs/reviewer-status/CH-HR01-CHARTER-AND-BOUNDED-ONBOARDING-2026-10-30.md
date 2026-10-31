@@ -14,8 +14,8 @@ Independently verify repository identity and public visibility. Read these publi
 1. Repository `README.md`.
 2. `projects/club-hunt/CURRENT-PROJECT-CONTROL.md`.
 3. The PCR identified by that locator.
-4. `projects/club-hunt/SOURCE-AUTHORITY-STATUS.md).
-5. `projects/club-hunt/AGENT-ROUTING.md).
+4. `projects/club-hunt/SOURCE-AUTHORITY-STATUS.md`.
+5. `projects/club-hunt/AGENT-ROUTING.md`.
 
 Resolve current global standards from the canonical [GPMS release registry](https://github.com/soheilshaghaghi/general-project-management-standards/blob/main/registry/current.json) and [Master PCR locator](https://github.com/soheilshaghaghi/general-project-management-standards/blob/main/docs/control/CURRENT-GPMS-PROJECT-CONTROL.md). Keep distinct: current adopted GPMS release, approved Master PCR, any CH receiving-project installation/synchronization, and components actually retrieved and verified. Do not claim full v1.7 composite support unless every registry component is retrieved and verified.
 
